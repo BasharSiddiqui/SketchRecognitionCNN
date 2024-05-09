@@ -8,7 +8,7 @@ The dataset used in this project is organized into two main folders: Train and V
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/sketchnet-classification.git
+1. Clone the repository: git clone https://github.com/BasharSiddiqui/sketchnet-classification.git
 2. Change into the project directory: cd sketchnet-classification
 ## Usage
 
